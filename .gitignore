@@ -1,0 +1,19 @@
+# IntelliJ IDEA project files
+.idea/
+
+# Compiled class files
+*.class
+
+# Production directory
+/out/
+
+# IntelliJ IDEA module file
+*.iml
+
+# Logs
+*.log
+
+# Miscellaneous
+*.tmp
+*.swp
+*~
